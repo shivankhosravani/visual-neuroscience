@@ -1,5 +1,5 @@
-# Neural Network Course
+# Visual Neuroscience Course
 
-The material of the Topics in Deep Learning.
+The material of the Topics in  visual neuroscience.
 
-Department of Mathematics Sharif University. Fall 2023
+Department of Mathematics Sharif University. Fall 2025
