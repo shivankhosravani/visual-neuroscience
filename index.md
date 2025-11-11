@@ -9,10 +9,10 @@ seo:
   name: Home
 ---
 
-# Selected Topics in Deep Learning
+# Selected Topics in Visual Neuroscience
 {: .mb-2 .text-green-000}
 
-Department of Mathematics, Sharif University of Technology. Fall 2023
+Department of Mathematics, Sharif University of Technology. Fall 2025
 {: .fs-6 .fw-300 }
 
 ![](https://ehsanmousavi1.github.io/NeuralNetwork/assets/images/site-banner.png)
@@ -28,8 +28,13 @@ The following skills will be useful for success in this course:
 
 * **Probability and Linear Algebra:** You should have been exposed to probability distributions, random variables, expectations, etc.
 
+## Office Hours
+
+- **Sheida Shahidi** – Mondays, 12:30–13:30  
+- **Dr. Razvan** – 8:00–9:00
 
 ## Course Work
+
 Grading will be based on:
 * Assignments (40%)
 * Final Exam (30%)

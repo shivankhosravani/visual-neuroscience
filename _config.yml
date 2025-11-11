@@ -1,7 +1,7 @@
 # Setup
-title: Neural Networks
+title: Visual Neuroscience
 tagline: CS SBU
-description: Neural Network Course . Fall 2023
+description: Visual Neuroscience Course . Fall 2025
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://dnncourse.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 favicon_ico: "favicon.ico"
