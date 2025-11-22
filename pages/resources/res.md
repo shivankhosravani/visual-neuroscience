@@ -27,11 +27,8 @@ permalink: /resources/res
 ---
 
 ## Courses
-- [PyTorch](https://youtu.be/Z_ikDlimN6A)
+
 
 
 ## Web pages
-- [Kaggle mini courses](https://www.kaggle.com/learn) - Gain the skills you need to do independent data science projects.
-- [TensorFlow tutorials](https://www.tensorflow.org/tutorials)
-- [PyTorch tutorials](https://pytorch.org/tutorials/)
-- [OpenCV documentations](https://docs.opencv.org/4.x/)
+
