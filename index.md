@@ -22,9 +22,9 @@ Department of Mathematics, Sharif University of Technology. Fall 2025
 
 
 ## Office Hours
-
+- **Dr. Razvan** – Mondays, 8:00–9:00
 - **Sheida Shahidi** – Mondays, 12:30–13:30  
-- **Dr. Razvan** – 8:00–9:00
+
 
 ## Course Work
 
