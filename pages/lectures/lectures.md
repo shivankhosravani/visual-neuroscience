@@ -8,8 +8,9 @@ permalink: /lectures
 
 # Lectures
 
-- Lecture 1: [Introduction](https://drive.google.com/file/d/1CoKTBOB0CskhA0im6HGZEalKD3-MqjFt/view?usp=sharing)
+- Lecture 1: [Visual and wang](https://docs.google.com/presentation/d/1ZUuYNuAvQ_Xx_XZ5lrb3Ty1fH_Y4z577/edit?usp=sharing&ouid=110819310771127579570&rtpof=true&sd=true)
 
+-lecture 2: []
 
 
 
