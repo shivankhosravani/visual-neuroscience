@@ -15,4 +15,4 @@ permalink: /lectures
 
 
 
-- [Review notes](./review.pdf)
+
