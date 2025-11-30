@@ -10,3 +10,4 @@ permalink: /resources
 
 Papers, Links, + Other References to Knowledge & Information
 {: .fs-6 .fw-300 }
+1. [(Objective analysis of the topological organization of the human cortical visual connectome suggests three visual pathways)](https://pubmed.ncbi.nlm.nih.gov/28457575/)
