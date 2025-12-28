@@ -22,3 +22,4 @@ permalink: /lectures
 - Lecture 5: [Efficient Representation,and Visual Illusions](https://drive.google.com/file/d/1oiKxG0lbdiRGFF25-AUuVgyrY_uReHg6/view?usp=sharing)
 
 
+- Lecture 6 :[When the Brain Takes a Break: A Model-Based Analysis of Mind Wandering](https://drive.google.com/file/d/1l_7eir6eYf_mU7_Egrb7_soG9y5JMiAc/view?usp=sharing)
