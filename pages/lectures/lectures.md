@@ -27,3 +27,5 @@ permalink: /lectures
 - Lecture 7 : [EVIDENCE FOR A THIRD VISUAL PATHWAY SPECIALIZED FOR SOCIAL PERCEPTION](https://drive.google.com/file/d/1COOu1W3V0FRHZv477nL2XdzR2k7DLTx-/view?usp=sharing)
 
 - Lecture 8 : [A neural basis of probabilistic computation in visual cortex](https://drive.google.com/file/d/1tgT5O0CuBgO12xBagRQSsHqxgR_-y0V-/view?usp=sharing)
+
+- Lecture 9 : [Transformer_brain_encoders_explain_human_high_level_visual_responses](https://drive.google.com/file/d/1o5QgMwwmgck3RRgV0G4G_goLmudkPha4/view?usp=sharing)
